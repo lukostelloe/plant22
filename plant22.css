@@ -1,0 +1,95 @@
+body {
+  padding: 5px solid black;
+  margin: auto;
+  cursor: url(cursor1x.png), auto;
+}
+.grid-container {
+  height: 100%;
+  width: 100%;
+  display: grid;
+  grid-template-columns: auto auto;
+  background-color: #ffffff;
+}
+
+.intro {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 5px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 20.8px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: right;
+  height: 80px;
+}
+
+.introright {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 5px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 20.8px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  height: 80px;
+  text-align: right;
+}
+
+.fb {
+  text-align: left;
+}
+
+.space {
+  background-color: #c3a5f5;
+  border: 5px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 56px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  text-align: center;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.members {
+  background-color: #ffa9af;
+  border: 5px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 56px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  text-align: center;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.membership {
+  background-color: #ffe000;
+  border: 5px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 56px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  text-align: center;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.contact {
+  background-color: #3cc8aa;
+  border: 5px solid rgba(0, 0, 0, 0.8);
+  padding: 20px;
+  font-size: 56px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 800;
+  text-align: center;
+  height: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+/* NEW TEST */
